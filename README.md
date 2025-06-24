@@ -2,14 +2,14 @@
 
 **`Programadora`** **`Estudante de Tecnologia`**
 
-Olá! Me chamo Mariana, tenho 18 anos e sou uma estudante de programação com forte interesse nas áreas de desenvolvimento front-end, back-end, análise de dados e computação em nuvem. Minha paixão por desenvolver vem desde o ensino médio, durante um curso de desenvolvimento web promovido pelo IME-USP, e desde então venho aprofundando meus conhecimentos por meio de formações complementares oferecidas por empresas de tecnologia e projetos pessoais, disponíveis em meus repositórios. O que me move em especial é o desafio de desenvolver soluções tecnólogicas que automatizem e otimizem tarefas do cotidiano, fazendo da tecnologia uma extensão das minhas habilidades técnicas.
+Olá! Me chamo Mariana, tenho 18 anos e sou uma estudante de programação com forte interesse nas áreas de desenvolvimento front-end, back-end, análise de dados e computação em nuvem. Minha paixão por desenvolver vem desde o ensino médio, durante um curso de desenvolvimento web promovido pelo IME-USP, e desde então venho aprofundando meus conhecimentos por meio de formações complementares oferecidas por empresas de tecnologia e projetos pessoais, disponíveis em meus repositórios. O que me move é o desafio de desenvolver soluções tecnólogicas que automatizem e otimizem tarefas do cotidiano, fazendo da tecnologia uma extensão das minhas habilidades técnicas.
   
   ##
  
 <div> 
   <a href="https://www.linkedin.com/in/marianahguerra" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:marianahguerra@gmail.com"><img src="https://img.shields.io/badge/-Gmail-E75F7F?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <a href="https://discordapp.com/users/678731839858540576" target="_blank"><img src="https://img.shields.io/badge/Discord-7356EA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+  <a href = "mailto:marianahguerra@gmail.com"><img src="https://img.shields.io/badge/-Gmail-404055?style=for-the-badge&logo=gmail&logoColor=E75F7F" target="_blank"></a>
+ <a href="https://discordapp.com/users/678731839858540576" target="_blank"><img src="https://img.shields.io/badge/Discord-7748C1?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 </div>
 
 ---
