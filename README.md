@@ -1,8 +1,8 @@
-## Mariana Guerra 
+## Mariana Guerra
 
 **`Programadora`** **`Estudante de Tecnologia`**
 
-Olá! Me chamo Mariana, tenho 18 anos e atualmente estudo Ciência e Tecnologia na UFABC. 
+Olá! Me chamo Mariana, tenho 18 anos e atualmente estudo Ciência e Tecnologia na UFABC.
   
   ##
  
@@ -14,19 +14,7 @@ Olá! Me chamo Mariana, tenho 18 anos e atualmente estudo Ciência e Tecnologia 
 
 ---
 
-### 🤖 Linguagens e Tecnologias
-
-<div>
-
-<p>
-  <img 
-        align="left" 
-        alt="GitHub Stats" 
-        height="150"
-        style="padding: 20px;" 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=marihguerra&theme=dracula&layout=compact&custom_title=Most+Used+Languages&langs_count=9" 
-    />
-</p>
+### 🤖 Tecnologias
 
 <img 
     align="left" 
@@ -85,4 +73,14 @@ Olá! Me chamo Mariana, tenho 18 anos e atualmente estudo Ciência e Tecnologia 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" 
 />
 
-</div>
+<br><br>
+
+<p>
+  <img 
+        align="left" 
+        alt="GitHub Stats" 
+        height="150"
+        style="padding: 20px;" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=marihguerra&theme=dracula&layout=compact&custom_title=Linguagens+mais+utilizadas&langs_count=9" 
+    />
+</p>
