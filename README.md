@@ -24,7 +24,7 @@ Olá! Me chamo Mariana, tenho 18 anos e atualmente estudo Ciência e Tecnologia 
         alt="GitHub Stats" 
         height="150"
         style="padding: 20px;" 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=marihguerra&theme=dracula&layout=compact&custom_title=Most+Used+Languages&langs_count=9" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=marihguerra&theme=gruvbox&layout=compact&custom_title=Most+Used+Languages&langs_count=9" 
     />
 </p>
 
