@@ -1,4 +1,4 @@
-## 💻 Mariana Guerra 
+## Mariana Guerra 
 
 **`Programadora`** **`Estudante de Tecnologia`**
 
@@ -8,8 +8,8 @@ Olá! Me chamo Mariana, tenho 18 anos e atualmente estudo Ciência e Tecnologia 
  
 <div> 
   <a href="https://www.linkedin.com/in/marianahguerra" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:marianahguerra@gmail.com"><img src="https://img.shields.io/badge/-Gmail-E75F7F?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://discordapp.com/users/678731839858540576" target="_blank"><img src="https://img.shields.io/badge/Discord-7356EA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-  <a href = "mailto:marianahguerra@gmail.com"><img src="https://img.shields.io/badge/-Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
 </div>
 
 ---
@@ -24,7 +24,7 @@ Olá! Me chamo Mariana, tenho 18 anos e atualmente estudo Ciência e Tecnologia 
         alt="GitHub Stats" 
         height="150"
         style="padding: 20px;" 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=marihguerra&theme=onedark&layout=compact&custom_title=Most+Used+Languages&langs_count=9" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=marihguerra&theme=dracula&layout=compact&custom_title=Most+Used+Languages&langs_count=9" 
     />
 </p>
 
