@@ -2,7 +2,7 @@
 
 **`Programadora`** **`Estudante de Tecnologia`**
 
-Olá! Me chamo Mariana, tenho 18 anos e atualmente estudo Ciência e Tecnologia na UFABC. 
+Olá! Me chamo Mariana, tenho 18 anos e sou uma estudante de programação com forte interesse nas áreas de desenvolvimento front-end, back-end, análise de dados e computação em nuvem. Minha paixão por desenvolver vem desde o ensino médio, durante um curso de desenvolvimento web promovido pelo IME-USP, e desde então venho aprofundando meus conhecimentos por meio de formações complementares oferecidas por empresas de tecnologia e projetos pessoais, disponíveis em meus repositórios. O que me move é o desafio de desenvolver soluções tecnólogicas que automatizem e otimizem tarefas do cotidiano, fazendo da tecnologia uma extensão das minhas habilidades técnicas.
   
   ##
  
