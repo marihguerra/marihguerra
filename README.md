@@ -1,8 +1,8 @@
-## Mariana Guerra
+## 🖥️ Mariana Guerra
 
 **`Programadora`** **`Estudante de Tecnologia`**
 
-Olá! Me chamo Mariana, tenho 18 anos e atualmente estudo Ciência e Tecnologia na UFABC.
+Olá! Me chamo Mariana, tenho 18 anos e atualmente estudo Ciência e Tecnologia na UFABC. 
   
   ##
  
