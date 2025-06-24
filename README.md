@@ -1,4 +1,4 @@
-## 🖥️ Mariana Guerra
+## 🖥️ Mariana H Guerra
 
 **`Programadora`** **`Estudante de Tecnologia`**
 
